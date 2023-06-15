@@ -1,0 +1,273 @@
+body{
+    background-color: whitesmoke;
+}
+nav{
+    display: inline-block;
+    margin-left: 137px;
+    margin-top: 21px;
+    vertical-align: super;
+}
+li{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    width: 50px;
+    height: 13px;   
+    margin-right: 35px;
+   
+
+}
+.foto1{
+    display: inline-block;
+    width: 32px ;
+    height: 32px;
+    vertical-align: super;
+    
+}
+h1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    width: 250px;
+    height: 28px;
+    margin-top: 57px;
+    margin-left: 138px;
+
+}
+.ojaxi{
+    display: inline-block;
+    margin-left: 138px;
+}
+.mshobeli{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.shvili{
+    display: inline-block;
+    position: relative;
+        margin-top: 26px;}
+
+
+
+h2{
+    position: absolute;
+    font-size: 20px ;
+    font-weight: 700;
+   
+    width: 184px;
+    height: 23px;
+    top: 32px ;
+    left: 41px;
+    transform: translate(-0% -0%);
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+   
+}
+
+.shvili1{
+    position: relative;
+    display: inline-block;
+}
+.class4{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 700;
+    top: 37px;
+    left: 40px;
+    transform: translate(-0% -0%);
+    color: white;
+}
+.shvili2{
+    position: relative;
+    display: inline-block;
+}
+.class6{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 700;
+    top: 37px ;
+    left: 41px ;
+    transform: translate(-0% -0%);
+    color: white;
+}
+.seqcion1{
+    margin-left: 137px;
+    
+}
+.bgc{
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    width: 362px ;
+    height: 169px;
+    border-radius:0px 0px 5px 5px;
+}
+h4{
+    position: absolute;
+    font-size:10px ;
+    font-weight: 700;
+    top: 68px ;
+    left: 37px ;
+    transform: translate(-0% -0%);
+    color: #8a8787;
+    width: 238px;
+    height: 36px;
+}
+.logo{
+    position: absolute;
+    top: 115px ;
+    left: 40px;
+    transform: translate(-0% -0%);
+}
+.minute{
+     position: absolute;
+    color: #8a8787 ;
+    font-size: 10px;
+    font-weight: 700 ;
+    top: 118px ;
+    left: 67px ;
+    transform: translate(-0% -0%);
+    width: 34px ;
+    height: 12px ;
+}
+.bgc1{ 
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    width: 362px ;
+    height: 169px;
+    border-radius:0px 0px 5px 5px;
+    margin-left: 40px;  
+}
+.suratebi{
+    display: inline-block;
+    margin-left: 93px;
+     margin-top: 23px;
+}
+.suratebi1{
+    margin-left: 45px;
+   
+}
+
+
+.didisuratebi{
+    position: relative;
+    width: 758px;
+    height: 430px;
+}
+.didisuratistext{
+    position: absolute;
+    top: 203px;
+    left: 278px;
+    transform: translate(-0% -0%);
+    width: 202px;
+    height: 23px;
+}
+.d12{
+    margin-top: 42px;
+}
+.patarasuratebi{
+    margin-top: -430px;
+    margin-left: 800px;
+    
+}
+.patarasurati2{
+    margin-top: 98px;
+}
+.patarasurati3{
+    margin-top: 98px;
+}
+.bolo{
+    position: relative;
+    display: inline-block;
+    margin-top: 101px;
+    width: 1600px ;
+    height: 201px;
+    background-color:#243043;
+    ;
+}
+h5{
+    position: absolute;
+    width: 33px;
+    height: 14px;
+    font-weight: 700;
+    font-size: 12px;
+    color: #8a8787;
+    top: 59px;
+    left:137px;
+    transform: translate(-0% -0%);
+}
+.h52{
+    top: 87px;
+    left: 137px ;
+    transform: translate(-0% -0%);
+}
+.h53{
+    top: 115px ;
+    left: 137px;
+    transform: translate(-0% -0%);
+}
+.h54{
+    top: 143px;
+    left: 137px;
+    transform: translate(-0% -0%);
+}
+.h55{
+    top: 59px ;
+    left: 266px;
+    transform: translate(-0% -0%);
+}
+.h56{
+    top: 87px ;
+    left: 266px;
+    transform: translate(-0% -0%);
+}
+.h57{
+    top: 115px ;
+    left:  266px;
+    transform: translate(-0% -0%);
+}
+.h58{
+    top:147px ;
+    left: 266px;
+    transform: translate(-0% -0%);
+}
+.h59{
+    top: 59px;
+    left: 417px;
+    transform: translate(-0% -0%);
+}
+.h60{
+    top: 87px ;
+    left: 417px;
+    transform: translate(-0% -0%);
+}
+.h61{
+    top:115px ;
+    left: 417px; ;
+    transform: translate(-0% -0%);
+}
+.h62{
+    top: 147px ;
+    left: 417px;
+    transform: translate(-0% -0%);
+}
+h6{
+    position: absolute;
+    width: 249px;
+    height: 14px;
+    font-weight: 400;
+    font-size: 12px;
+    color: white;
+    top: 59px;
+    left: 599px;
+    transform: translate(-0% -0%);
+}
+.h63{
+    position: absolute;
+    top: 58px;
+    left: 1264px ;
+    transform: translate(-0% -0%);
+}
